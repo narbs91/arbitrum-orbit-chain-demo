@@ -1,0 +1,18 @@
+{
+  "name": "arbitrum-orbit-chain-demo",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": {
+    "dev:deploy-chain": "tsc --outDir dist && node ./dist/DeployRollupChain.js",
+    "dev:node-config": "tsc --outDir dist && node ./dist/GetNodeConfig.js"
+  },
+  "devDependencies": {
+    "@types/node": "^20.9.0",
+    "typescript": "^5.2.2"
+  },
+  "dependencies": {
+    "@arbitrum/orbit-sdk": "^0.23.4",
+    "viem": "^1.20.0"
+  }
+}
