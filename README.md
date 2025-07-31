@@ -33,9 +33,9 @@ curl -s -X POST http://localhost:8547 \
 11. Now take the resulting hex value and use a tool like cast (e.g. `cast to-dec the-hex-val`) or an online alternative to convert the hex value into a human readable value. The resulting value should be the chain id found in your `nodeConfig.json` file
 
 # Resources
-ℹ️ Arbitrum Orbit Chain Docs - https://docs.arbitrum.io/launch-arbitrum-chain/a-gentle-introduction
-ℹ️ Arbitrum Orbit Chain Factory contracts - https://docs.arbitrum.io/launch-arbitrum-chain/deploy-an-arbitrum-chain/canonical-factory-contracts
-ℹ️ Arbitrum Orbit SDK - https://github.com/OffchainLabs/arbitrum-orbit-sdk
-ℹ️ Nitro contracts Repo - https://github.com/OffchainLabs/nitro-contracts
-ℹ️ Nitro Repo - https://github.com/OffchainLabs/nitro
-ℹ️ DevChain Deployment Transaction - https://sepolia.arbiscan.io/tx/0x29dadc2dbd4f02aa0d1327ea2cdec9624d47892dc8a311764348bd19aedb41eb
+- ℹ️ Arbitrum Orbit Chain Docs - https://docs.arbitrum.io/launch-arbitrum-chain/a-gentle-introduction
+- ℹ️ Arbitrum Orbit Chain Factory contracts - https://docs.arbitrum.io/launch-arbitrum-chain/deploy-an-arbitrum-chain/canonical-factory-contracts
+- ℹ️ Arbitrum Orbit SDK - https://github.com/OffchainLabs/arbitrum-orbit-sdk
+- ℹ️ Nitro contracts Repo - https://github.com/OffchainLabs/nitro-contracts
+- ℹ️ Nitro Repo - https://github.com/OffchainLabs/nitro
+- ℹ️ DevChain Deployment Transaction - https://sepolia.arbiscan.io/tx/0x29dadc2dbd4f02aa0d1327ea2cdec9624d47892dc8a311764348bd19aedb41eb
